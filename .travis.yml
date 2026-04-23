@@ -32,11 +32,6 @@ matrix:
 git:
   depth: 10
 
-branches:
-  only:
-    - master
-    - 4.17
-
 notifications:
   webhooks:
     urls:
